@@ -33,5 +33,10 @@ public class SpeedTestFragmentImpl extends SpeedTestFragment {
 
     }
 
+    @Override
+    public String getVpnConnectedServerIp() {
+        return null;
+    }
+
 
 }
